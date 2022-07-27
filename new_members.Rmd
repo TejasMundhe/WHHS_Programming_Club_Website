@@ -1,0 +1,18 @@
+---
+title: "New Members"
+theme: theme.css
+footer: _footer.html
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Sign Up
+Sign up to be a member for the 2022-23 school year by filling out the form below or at [this link]()!
+
+
+
+
+

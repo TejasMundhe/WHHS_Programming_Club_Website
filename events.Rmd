@@ -1,0 +1,25 @@
+---
+title: "Events"
+theme: theme.css
+footer: _footer.html
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Calendar
+Below is our club calendar for the 2022-23 school year.
+
+```{r calendar}
+htmltools::includeHTML("calendar.html")
+```
+
+## Upcoming Events
+### [TechOlympics](https://techolympics.org/)- February 19-20th
+[TechOlympics](https://techolympics.org/) is a high school programming convention by [INTERalliance](https://interalliance.org/home/) that runs for one weekend in February. The club works on creating a project to present at the convention throughout the year. During the event, a small group will break off to present the project to a panel of judges. During the rest of the convention there is tons of fun opprotunities for students to have fun at. These activities include, but are not limited to, WikiRaces, Code Golfing, Jeopardy, Jackbox Games, and more. The convention also has many presentations by people in the work force about a wide array of topics. All in all, this is the pinnacle event of the year that you shouldn't miss.
+
+### [IT Expo](https://itexpo.live/)- April 12th
+[ITExpo](https://itexpo.live/) is a small science fair like activity put on by the University of Cincinnati in early April to showcase projects that high school and college students have been working on throughout the year. This club attends ITExpo to showcase the same project we worked on for TechOlympics.
