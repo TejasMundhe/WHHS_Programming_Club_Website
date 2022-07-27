@@ -5,42 +5,42 @@
       "title": "About Us",
       "author": [],
       "contents": "\r\nWho Are We?\r\nThe\r\nWalnut Hills Programming\r\nClub meets on Thursday afternoons in the computer lab (3104) to\r\ncreate projects and teach technical skills to students. Our focuses\r\nare:\r\nAn annual large-scale tech project to present at TechOlympics and IT Expo\r\nTeaching technical prowess at a high school level\r\nOffering opportunities for students to further their interest in\r\ntech\r\nWhy Join?\r\nWe know many people at Walnut Hills have an interest in programming,\r\nbut are unsure about where to start. If this describes you, don’t fret!\r\nWe are always welcoming new members, regardless of prior programming\r\nexperience. During meetings, we try to do our best to teach newcomers\r\nprogramming concepts, with a focus on JavaScript, HTML, and CSS.\r\nEven if you aren’t interested in programming, we are always looking\r\nfor people to help with design and project management! People who are\r\nmore artistically inclined can help with art assets and graphic\r\ndesign, while those who are creative can help with\r\nbrainstorming ideas and solutions. Any skills you bring to the table\r\nwill help us!\r\nMeet our 2022-23 Leadership\r\nTeam!\r\nPresident: Annie Laursen\r\n\r\n\r\n\r\nAnnie Lausen bio.\r\nVice President: Marie Flessa\r\n\r\n\r\n\r\nMarie Flessa bio.\r\nCompetition Code\r\nDirector: Tejas Mundhe\r\n\r\n\r\n\r\nTejas Mundhe is a\r\nsophomore at Walnut Hills High School who has been a part of the\r\nprogramming club for the last two years. Outside of school he enjoys\r\nrobotics, swimming, reading, and playing video games.\r\nClub Project Director: Aabha\r\nPhadke\r\n\r\n\r\n\r\nAabha Phadke bio.\r\nTreasurer: Raghav Gangatirkar\r\n\r\n\r\n\r\nRaghav Gangatirkar bio.\r\nDesign Director: TBD\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-27T17:55:00-04:00"
+      "last_modified": "2022-07-27T18:01:04-04:00"
     },
     {
       "path": "contact.html",
       "title": "Contact Us",
       "author": [],
       "contents": "\r\nFeel\r\nfree to reach out to us with any questions, comments, or suggestions at\r\nour socials below!\r\n\r\n\r\n\r\n  \r\n\r\n                    @whhsprogramming\r\n\r\n\r\n\r\n\r\n  \r\n\r\n\r\n\r\n  \r\n                   General: whhsprogramming@gmail.com\r\n  \r\n                    Programming Club Advisor: kerkhor@cpsboe.k12.oh.us\r\n\r\n\r\n\r\n\r\n\r\n  \r\n\r\n                    @WalnutProgramming\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-27T17:55:01-04:00"
+      "last_modified": "2022-07-27T18:01:05-04:00"
     },
     {
       "path": "events.html",
       "title": "Events",
       "author": [],
       "contents": "\r\nCalendar\r\nBelow is our club calendar for the 2022-23 school year.\r\n\r\n\r\n\r\nUpcoming Events\r\nTechOlympics- February 19-20th\r\nTechOlympics is a high school\r\nprogramming convention by INTERalliance that runs for\r\none weekend in February. The club works on creating a project to present\r\nat the convention throughout the year. During the event, a small group\r\nwill break off to present the project to a panel of judges. During the\r\nrest of the convention there is tons of fun opprotunities for students\r\nto have fun at. These activities include, but are not limited to,\r\nWikiRaces, Code Golfing, Jeopardy, Jackbox Games, and more. The\r\nconvention also has many presentations by people in the work force about\r\na wide array of topics. All in all, this is the pinnacle event of the\r\nyear that you shouldn’t miss.\r\nIT Expo-\r\nApril 12th\r\nITExpo is a small science fair\r\nlike activity put on by the University of Cincinnati in early April to\r\nshowcase projects that high school and college students have been\r\nworking on throughout the year. This club attends ITExpo to showcase the\r\nsame project we worked on for TechOlympics.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-27T17:55:01-04:00"
+      "last_modified": "2022-07-27T18:01:06-04:00"
     },
     {
       "path": "index.html",
       "title": "Walnut Hills High School Programming",
       "author": [],
       "contents": "\r\nWelcome!\r\nJoin\r\nus on Tuesday’s in room 3104 to learn, code, design, and make\r\nfriends!\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-27T17:55:04-04:00"
+      "last_modified": "2022-07-27T18:01:09-04:00"
     },
     {
       "path": "new_members.html",
       "title": "New Members",
       "author": [],
       "contents": "\r\nSign Up\r\nSign up to be a member for the 2022-23 school year by filling out the\r\nform below or at this link!\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-27T17:55:05-04:00"
+      "last_modified": "2022-07-27T18:01:09-04:00"
     },
     {
       "path": "portfolio.html",
       "title": "Our Portfolio",
       "author": [],
       "contents": "\r\nWalnut.Direct\r\n\r\n\r\n\r\nWalnut.Direct (our 2020\r\nshowcase project) gives students straightforward directions between\r\nrooms in our large, confusing school. It uses room-finder,\r\na library we created for using Dijkstra’s algorithm to generate\r\ndirections between rooms in a building.\r\nNo Lab Physics\r\n\r\n\r\n\r\nWalnut Hills Programming Club’s 2021 showcase project. No Lab Physics allows\r\nstudents and teachers to create their own custom physics labs.\r\nE-Card-Nomics\r\n\r\n\r\n\r\nDue to a lack of financial literacy in high school curriculum, we\r\nhave noticed that the majority of high school students (including\r\nourselves) do not feel confident in their financial skills going into\r\nadulthood. We hope that E-Card-Nomics will help students\r\nfind a fun and engaging way to learn financial skills that will help\r\nthem in the future. Our project is unique in that it is free, designed\r\nwith high school students in mind, and incorporated game elements in\r\norder to help make the experience more engaging and entertaining for\r\nstudents.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-27T17:55:05-04:00"
+      "last_modified": "2022-07-27T18:01:10-04:00"
     }
   ],
   "collections": []

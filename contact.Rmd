@@ -3,6 +3,7 @@ title: "Contact Us"
 theme: theme.css
 footer: _footer.html
 output: distill::distill_article
+favicon: images/logo.png
 ---
 
 ```{r setup, include=FALSE}
