@@ -2,6 +2,7 @@ name: "."
 title: "WHHS Programming Club"
 theme: theme.css
 output_dir: "docs"
+favicon: images/logo.png
 navbar:
   right:
     - text: "Home"
