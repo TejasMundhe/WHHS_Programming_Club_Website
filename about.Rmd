@@ -1,0 +1,20 @@
+---
+title: "About Us"
+theme: theme.css
+footer: _footer.html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Who Are We?
+### The Walnut Hills Programming Club meets on Thursday afternoons in the computer lab (3104) to create projects and teach technical skills to students. Our focuses are:
++ An annual large-scale tech project to present at [TechOlympics](https://techolympics.org/) and [IT Expo](https://itexpo.live/2022/high-school)
++ Teaching technical prowess at a high school level
++ Offering opportunities for students to further their interest in tech
+
+## Why Join?
+We know many people at Walnut Hills have an interest in programming, but are unsure about where to start. If this describes you, don't fret! We are always welcoming new members, regardless of prior programming experience. During meetings, we try to do our best to teach newcomers programming concepts, with a focus on [JavaScript](https://www.w3schools.com/js/)[HTML](https://www.w3schools.com/html/), and [CSS](https://www.w3schools.com/css/).
+
+Even if you aren't interested in programming, we are always looking for people to help with design and project management! People who are more *artistically* inclined can help with art assets and graphic design, while those who are *creative* can help with brainstorming ideas and solutions. Any skills you bring to the table will help us!

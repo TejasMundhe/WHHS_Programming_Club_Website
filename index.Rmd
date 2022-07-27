@@ -1,0 +1,15 @@
+---
+title: "Walnut Hills High School Programming"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Welcome!
+
+### Join us on Tuesday's in room 3104 to learn, code, design, and make friends!
+
+<!-- Insert picture here -->
+

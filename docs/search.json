@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About Us",
+      "author": [],
+      "contents": "\r\nWho Are We?\r\nThe\r\nWalnut Hills Programming Club meets on Thursday afternoons in the\r\ncomputer lab (3104) to create projects and teach technical skills to\r\nstudents. Our focuses are:\r\nAn annual large-scale tech project to present at TechOlympics and IT Expo\r\nTeaching technical prowess at a high school level\r\nOffering opportunities for students to further their interest in\r\ntech\r\nWhy Join?\r\nWe know many people at Walnut Hills have an interest in programming,\r\nbut are unsure about where to start. If this describes you, don’t fret!\r\nWe are always welcoming new members, regardless of prior programming\r\nexperience. During meetings, we try to do our best to teach newcomers\r\nprogramming concepts, with a focus on JavaScriptHTML, and CSS.\r\nEven if you aren’t interested in programming, we are always looking\r\nfor people to help with design and project management! People who are\r\nmore artistically inclined can help with art assets and graphic\r\ndesign, while those who are creative can help with\r\nbrainstorming ideas and solutions. Any skills you bring to the table\r\nwill help us!\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-26T23:52:03-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Walnut Hills High School Programming",
+      "author": [],
+      "contents": "\r\nWelcome!\r\nJoin\r\nus on Tuesday’s in room 3104 to learn, code, design, and make\r\nfriends!\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-26T23:38:39-04:00"
+    }
+  ],
+  "collections": []
+}

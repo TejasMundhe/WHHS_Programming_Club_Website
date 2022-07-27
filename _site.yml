@@ -1,0 +1,11 @@
+name: "."
+title: "WHHS Programming Club"
+theme: theme.css
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About Us"
+      href: about.html
+output: distill::distill_article
