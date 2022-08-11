@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Who Are We?
-### The [Walnut Hills Programming Club](https://github.com/WalnutProgramming) meets on Thursday afternoons in the computer lab (3104) to create projects and teach technical skills to students. Our focuses are:
+The [Walnut Hills Programming Club](https://github.com/WalnutProgramming), a chapter of [INTERalliance](https://www.interalliance.org/) meets on Tuesday from 3-4pm in room 3104 to create projects and teach technical skills to students. Our focuses are:
 + An annual large-scale tech project to present at [TechOlympics](https://techolympics.org/) and [IT Expo](https://itexpo.live/2022/high-school)
 + Teaching technical prowess at a high school level
 + Offering opportunities for students to further their interest in tech
@@ -41,9 +41,9 @@ knitr::include_graphics("images/tejas.jpg")
 
 ### Club Project Director: Aabha Phadke
 ```{r aabha, out.width = "50%"}
-knitr::include_graphics("images/placeholder.jpg")
+knitr::include_graphics("images/aabha.jpg")
 ```
-[Aabha Phadke]() bio.
+[Aabha Phadke]() is a junior at WHHS. This is her first year as a member of Programming Club, but she has gained outside experience in coding through classes. She enjoys dancing, swimming, and science!
 
 ### Treasurer: Raghav Gangatirkar
 ```{r raghav, out.width = "50%", out.extra='angle=270'}
