@@ -10,7 +10,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Who Are We?
 The [Walnut Hills Programming Club](https://github.com/WalnutProgramming), a chapter of [INTERalliance](https://www.interalliance.org/) meets on Tuesday from 3-4pm in room 3104 to create projects and teach technical skills to students. Our focuses are:
-+ An annual large-scale tech project to present at [TechOlympics](https://techolympics.org/) and [IT Expo](https://itexpo.live/2022/high-school)
+
+  + An annual large-scale tech project to present at [TechOlympics](https://techolympics.org/) and [IT Expo](https://itexpo.live/2022/high-school)
 + Teaching technical prowess at a high school level
 + Offering opportunities for students to further their interest in tech
 
