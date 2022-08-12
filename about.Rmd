@@ -52,7 +52,8 @@ knitr::include_graphics("images/raghav.jpeg")
 ```
 [Raghav Gangatirkar](mailto:raghav.gangatirkar@gmail.com) is a junior at Walnut Hills High School and this will be his second year in programming club. He also rows for CJRC. Outside of school, he likes to read and fly his drone.
 
-### Design Director: TBD
+### Design Director: Arnav Shukla
 ```{r tbd, out.width = "50%"}
 knitr::include_graphics("images/placeholder.jpg")
 ```
+[Arnav Shukla]() bio.
