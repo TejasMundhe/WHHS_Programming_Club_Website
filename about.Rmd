@@ -30,9 +30,9 @@ knitr::include_graphics("images/annie.jpg")
 
 ### Vice President: Marie Flessa
 ```{r marie, out.width = "50%"}
-knitr::include_graphics("images/placeholder.jpg")
+knitr::include_graphics("images/marie.heic")
 ```
-[Marie Flessa]() bio.
+[Marie Flessa]() is a junior at WHHS and this is her second year in Programming Club! Outside of the computer lab, she enjoys baking, running, and playing lacrosse.
 
 ### Competition Code Director: Tejas Mundhe
 ```{r tejas, out.width = "50%"}
