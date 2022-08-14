@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 knitr::include_graphics("images/walnut_direct.png")
 ```
 
-[Walnut.Direct](https://www.walnut.direct/),our 2020 showcase project, gives students straightforward directions between rooms in our large, confusing school. It uses [room-finder](https://github.com/WalnutProgramming/room-finder), a library we created for using Dijkstra's algorithm, to generate directions between rooms in a building.
+[Walnut.Direct](https://www.walnut.direct/), our 2020 showcase project, gives students straightforward directions between rooms in our large, confusing school. It uses [room-finder](https://github.com/WalnutProgramming/room-finder), a library we created for using Dijkstra's algorithm, to generate directions between rooms in a building.
 
 
 
