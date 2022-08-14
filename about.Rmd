@@ -9,16 +9,17 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Who Are We?
-The [Walnut Hills Programming Club](https://github.com/WalnutProgramming), a chapter of [INTERalliance](https://www.interalliance.org/) meets on Tuesday's from 3-4pm in room 3104 to create projects and teach technical skills to students. Our focuses are:
+The [Walnut Hills Programming Club](https://github.com/WalnutProgramming), a chapter of [INTERalliance](https://www.interalliance.org/) meets on Tuesday's from 3-4pm in room 3104 to create projects and teach technical skills to students.
 
-  + An annual large-scale tech project to present at [TechOlympics](https://techolympics.org/) and [IT Expo](https://itexpo.live/2022/high-school)
-+ Teaching technical prowess at a high school level
-+ Offering opportunities for students to further their interest in tech
+  Our club is a way for students to get hands-on programming, organizational, and leadership experience. Students collaborate to write code and create designs for games, websites, and more. Members create and run club events and attend INTERalliance chapter events as well as participate in [programming competitions](events.html).
 
 ## Why Join?
-We know many people at Walnut Hills have an interest in programming, but are unsure about where to start. If this describes you, don't fret! We are always welcoming new members, regardless of prior programming experience. During meetings, we try to do our best to teach newcomers programming concepts, with a focus on [JavaScript](https://www.w3schools.com/js/), [HTML](https://www.w3schools.com/html/), and [CSS](https://www.w3schools.com/css/).
+We want to get as many Walnut students, grades 7-12, into tech as possible. *No prior coding or design experience is necessary*.
 
-Even if you aren't interested in programming, we are always looking for people to help with design and project management! People who are more *artistically* inclined can help with art assets and graphic design, while those who are *creative* can help with brainstorming ideas and solutions. Any skills you bring to the table will help us!
+  From complete beginners to more experienced artists and programmers, all club members participate on teams based on their level of experience and area of interest. In addition, Programming Club works to share excitement with the greater Walnut community through workshops and other projects. Our projects like [Walnut.Direct](walnut.direct) aim to positively impact the Walnut community.
+
+## Our School
+[Walnut Hills High School](https://walnuthillseagles.com/) is a college preparatory school for students in grades 7-12 in Cincinnati, Ohio. In addition to Programming Club, Walnut offers [computer science and design courses](http://www.walnuthillseagles.com/pdfs/2022-2023_Course_Guide.pdf), all of which are great resources for Walnut students who are interested in these fields. 
 
 ## Meet our 2022-23 Leadership Team!
 
@@ -53,7 +54,7 @@ knitr::include_graphics("images/raghav.jpeg")
 [Raghav Gangatirkar](mailto:raghav.gangatirkar@gmail.com) is a junior at Walnut Hills High School and this will be his second year in programming club. He also rows for CJRC. Outside of school, he likes to read and fly his drone.
 
 ### Design Director: Arnav Shukla
-```{r tbd, out.width = "50%"}
-knitr::include_graphics("images/placeholder.jpg")
+```{r arnav, out.width = "50%"}
+knitr::include_graphics("images/arnav.jpg")
 ```
-[Arnav Shukla]() bio.
+[Arnav Shukla]() is a junior at Walnut and this is his first year in Programming Club. He loves running, playing the tabla, and cooking!
