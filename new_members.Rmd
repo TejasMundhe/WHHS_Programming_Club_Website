@@ -1,5 +1,5 @@
 ---
-title: "New Members"
+title: "Sign Up"
 theme: theme.css
 footer: _footer.html
 output: distill::distill_article
@@ -10,8 +10,7 @@ favicon: images/logo.png
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Sign Up
-Sign up to be a member for the 2022-23 school year by filling out the form below or at [this link](https://docs.google.com/forms/d/e/1FAIpQLSdGregQUg75pX37aX6XJvrnXYOOad2TiNT2ozWXR2OhGP-h-w/viewform?usp=sf_link)!
+[Open form in new tab](https://docs.google.com/forms/d/e/1FAIpQLSdGregQUg75pX37aX6XJvrnXYOOad2TiNT2ozWXR2OhGP-h-w/viewform?usp=sf_link)!
 
 ```{r contact, out.width = "200px"}
 htmltools::includeHTML("signup-form.html")
