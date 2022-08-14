@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 knitr::include_graphics("images/walnut_direct.png")
 ```
 
-[Walnut.Direct](https://www.walnut.direct/) (our 2020 showcase project) gives students straightforward directions between rooms in our large, confusing school. It uses [room-finder](https://github.com/WalnutProgramming/room-finder), a library we created for using Dijkstra's algorithm to generate directions between rooms in a building.
+[Walnut.Direct](https://www.walnut.direct/),our 2020 showcase project, gives students straightforward directions between rooms in our large, confusing school. It uses [room-finder](https://github.com/WalnutProgramming/room-finder), a library we created for using Dijkstra's algorithm, to generate directions between rooms in a building.
 
 
 
@@ -23,11 +23,11 @@ knitr::include_graphics("images/walnut_direct.png")
 knitr::include_graphics("images/no-lab-physics.png")
 ```
 
-Walnut Hills Programming Club's 2021 showcase project. [No Lab Physics](https://no-lab-physics.netlify.app/) allows students and teachers to create their own custom physics labs.
+Our 2021 showcase project, [No Lab Physics](https://no-lab-physics.netlify.app/), allows students and teachers to create their own custom physics labs.
 
 
 ## E-Card-Nomics
 ```{r financial-literacy-app}
 knitr::include_graphics("images/e-card-nomics.png")
 ```
-Due to a lack of financial literacy in high school curriculum, we have noticed that the majority of high school students (including ourselves) do not feel confident in their financial skills going into adulthood. We hope that [E-Card-Nomics]() will help students find a fun and engaging way to learn financial skills that will help them in the future. Our project is unique in that it is free, designed with high school students in mind, and incorporated game elements in order to help make the experience more engaging and entertaining for students.
+[E-Card-Nomics](), our 2022 showcase project, is a game made to teach students financial literacy skills in a more engaging and entertaining way than a textbook or class would.
