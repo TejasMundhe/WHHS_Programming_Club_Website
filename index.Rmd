@@ -10,7 +10,7 @@ library(ggthemes)
 library(viridis)
 ```
 
-### Join us on Tuesday's in room 3104 to learn, code, design, and make friends! Learn more [here](about.html)!
+### Join us Tuesdays in room 3104 to learn, code, design, and make friends! Read more [here](about.html)!
 
 ```{r plot, out.width = "1500px", warning = FALSE}
 data <- c("Not in Programming Club", "Programming Club Members", 10, 100)
