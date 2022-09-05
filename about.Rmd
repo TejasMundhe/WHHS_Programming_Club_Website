@@ -58,3 +58,9 @@ knitr::include_graphics("images/raghav.jpeg")
 knitr::include_graphics("images/arnav.jpg")
 ```
 [Arnav Shukla]() is a junior at Walnut and this is his first year in Programming Club. He loves running, playing the tabla, and cooking!
+
+### Co-Competiton Code Director: Aditya Singh
+```{r aditya, out.width = "50%"}
+knitr::include_graphics("images/aditya.jpg")
+```
+[Aditya Singh]() is in his Sophomore year at Walnut Hills High School. Outside of school he does Martial Arts, reads a lot, and plays video games.
