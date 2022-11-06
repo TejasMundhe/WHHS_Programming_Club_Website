@@ -19,10 +19,7 @@ htmltools::includeHTML("calendar.html")
 ```
 
 ## Upcoming Events
-### First Club Meeting- September 13, 2022
-Join us in room 3104 for our first meeting of the 2022-23 school year!
-
-### [TechOlympics](https://techolympics.org/)- February 2023; date TBD
+### [TechOlympics](https://techolympics.org/)- February 18-19, 2023
 ```{r techolympics, out.width = "75%"}
 knitr::include_graphics("images/techolympics.jpg")
 ```

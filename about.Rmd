@@ -39,13 +39,13 @@ knitr::include_graphics("images/marie.heic")
 ```{r tejas, out.width = "50%"}
 knitr::include_graphics("images/tejas.jpg")
 ```
-[Tejas Mundhe](https://github.com/TejasMundhe) is a sophomore at Walnut Hills High School who has been a part of the programming club for the last two years. Outside of school he enjoys robotics, swimming, reading, and playing video games.
+[Tejas Mundhe](https://github.com/TejasMundhe) is a sophomore at Walnut Hills High School who has been a part of the programming club for the last three years. Outside of school he enjoys robotics, reading, and spending time with friends and family.
 
-### Club Project Director: Aabha Phadke
-```{r aabha, out.width = "50%"}
-knitr::include_graphics("images/aabha.jpg")
+### Co-Competiton Code Director: Aditya Singh
+```{r aditya, out.width = "50%"}
+knitr::include_graphics("images/aditya.jpg")
 ```
-[Aabha Phadke]() is a junior at WHHS. This is her first year as a member of Programming Club, but she has gained outside experience in coding through classes. She enjoys dancing, swimming, and science!
+[Aditya Singh]() is in his Sophomore year at Walnut Hills High School. Outside of school he does Martial Arts, reads a lot, and plays video games.
 
 ### Treasurer: Raghav Gangatirkar
 ```{r raghav, out.width = "50%", out.extra='angle=270'}
@@ -58,9 +58,3 @@ knitr::include_graphics("images/raghav.jpeg")
 knitr::include_graphics("images/arnav.jpg")
 ```
 [Arnav Shukla]() is a junior at Walnut and this is his first year in Programming Club. He loves running, playing the tabla, and cooking!
-
-### Co-Competiton Code Director: Aditya Singh
-```{r aditya, out.width = "50%"}
-knitr::include_graphics("images/aditya.jpg")
-```
-[Aditya Singh]() is in his Sophomore year at Walnut Hills High School. Outside of school he does Martial Arts, reads a lot, and plays video games.
