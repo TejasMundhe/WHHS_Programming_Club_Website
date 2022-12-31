@@ -41,7 +41,7 @@ knitr::include_graphics("images/tejas.jpg")
 ```
 [Tejas Mundhe](https://github.com/TejasMundhe) is a sophomore at Walnut Hills High School who has been a part of the programming club for the last three years. Outside of school he enjoys robotics, reading, and spending time with friends and family.
 
-### Co-Competiton Code Director: Aditya Singh
+### Club Project Director: Aditya Singh
 ```{r aditya, out.width = "50%"}
 knitr::include_graphics("images/aditya.jpg")
 ```

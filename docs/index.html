@@ -108,7 +108,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","site"]}},"value":[{"type":"character","attributes":{},"value":["Walnut Hills High School Programming"]},{"type":"character","attributes":{},"value":["distill::distill_website"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","theme","site"]}},"value":[{"type":"character","attributes":{},"value":["Walnut Hills High School Programming"]},{"type":"character","attributes":{},"value":["theme.css"]},{"type":"character","attributes":{},"value":["distill::distill_website"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -786,6 +786,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   d-article table.gt_table td,
   d-article table.gt_table th {
     border-bottom: none;
+    font-size: 100%;
   }
 
   .html-widget {
@@ -1858,15 +1859,21 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        if ($(this).children()[0].nodeName == "D-FOOTNOTE") {
-          var fn = $(this).children()[0]
+        const citeChild = $(this).children()[0]
+        // Do not process if @xyz has been used without escaping and without bibliography activated
+        // https://github.com/rstudio/distill/issues/466
+        if (citeChild === undefined) return true
+
+        if (citeChild.nodeName == "D-FOOTNOTE") {
+          var fn = citeChild
           $(this).html(fn.shadowRoot.querySelector("sup"))
           $(this).id = fn.id
           fn.remove()
         }
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
-          return "<p>" + $('#ref-' + ref).html() + "</p>";
+          // Could use CSS.escape too here, we insure backward compatibility in navigator
+          return "<p>" + $('div[id="ref-' + ref + '"]').html() + "</p>";
         }).join("\n");
         window.tippy(this, {
           allowHTML: true,
@@ -2375,7 +2382,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2429,22 +2436,15 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<h3
-id="join-us-tuesdays-in-room-3104-to-learn-code-design-and-make-friends-read-more-here">Join
-us Tuesdays in room 3104 to learn, code, design, and make friends! Read
-more <a href="about.html">here</a>!</h3>
+<h3 id="join-us-tuesdays-in-room-3104-to-learn-code-design-and-make-friends-read-more-here">Join us Tuesdays in room 3104 to learn, code, design, and make friends! Read more <a href="about.html">here</a>!</h3>
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="index_files/figure-html5/plot-1.png" width="1500px" /></p>
 </div>
-<!-- Insert picture here -->
-<h2 id="sign-up-now"><a
-href="https://docs.google.com/forms/d/e/1FAIpQLSdGregQUg75pX37aX6XJvrnXYOOad2TiNT2ozWXR2OhGP-h-w/viewform?usp=sf_link">Sign
-Up Now!</a></h2>
 <div class="layout-chunk" data-layout="l-body">
+<center><h2><a href = "https://docs.google.com/forms/d/e/1FAIpQLSdGregQUg75pX37aX6XJvrnXYOOad2TiNT2ozWXR2OhGP-h-w/viewform?usp=sf_link">Sign Up Now!</a></h2></center>
 <p><img src="images/club-roster.jpg" width="3008" /></p>
 </div>
-<div class="sourceCode" id="cb1"><pre
-class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
@@ -2470,7 +2470,7 @@ class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"><
    
 <a href = "https://www.instagram.com/whhsprogramming/"><img src = "images/instagram.png" alt = "Instagram Logo" style = "width:40px;height:40px;"></img></a>
 <a href = "https://docs.google.com/forms/d/e/1FAIpQLSdGregQUg75pX37aX6XJvrnXYOOad2TiNT2ozWXR2OhGP-h-w/viewform?usp=sf_link"><img src = "images/sign-up.png" alt = "Sign Up" style = "width:130px;height:40px;"></img></a>
-</br> Last updated 11/06/22. Website made and maintained by
+</br> Last updated 12/30/22. Website made and maintained by
 <a href = "https://github.com/TejasMundhe">Tejas Mundhe</a>.</p>
 </div>
 <!--/radix_placeholder_navigation_after_body-->

@@ -1,5 +1,6 @@
 ---
 title: "Walnut Hills High School Programming"
+theme: theme.css
 site: distill::distill_website
 ---
 
@@ -35,9 +36,8 @@ ggplot(mapping = aes(x = Club_Affiliation, y = Happiness_Levels, fill = Happines
 
 ```
 
-<!-- Insert picture here -->
-## [Sign Up Now!](https://docs.google.com/forms/d/e/1FAIpQLSdGregQUg75pX37aX6XJvrnXYOOad2TiNT2ozWXR2OhGP-h-w/viewform?usp=sf_link)
 
 ```{r club-image}
+htmltools::includeHTML("homebottom.html")
 knitr::include_graphics("images/club-roster.jpg")
 ```
