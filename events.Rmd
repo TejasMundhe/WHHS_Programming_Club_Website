@@ -19,6 +19,11 @@ htmltools::includeHTML("calendar.html")
 ```
 
 ## Upcoming Events
+### Game Design Competition- February 16-March 6, 2023
+Attention, current Walnut students! Do you have an idea for a video game? Then you should enter Programming Club's first ever GAME DESIGN COMPETITION!
+
+The winning design will be made into a REAL GAME! If you're interested in sending in an entry, please complete [this google form](https://forms.gle/Uhd6PQjFyxUKGh4c7) or stop by room 3104 to get a paper form!
+
 ### [TechOlympics](https://techolympics.org/)- February 18-19, 2023
 ```{r techolympics, out.width = "75%"}
 knitr::include_graphics("images/techolympics.jpg")
